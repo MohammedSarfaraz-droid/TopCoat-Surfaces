@@ -66,7 +66,7 @@ const Index = () => {
                 </Button>
               </Link>
               <Link to="/contact">
-                <Button variant="outline" className="rounded-full px-8 py-6 text-sm tracking-[0.1em] uppercase border-white/30 text-white hover:bg-white/10 transition-all duration-300">
+                <Button variant="outline" className="rounded-full px-8 py-6 text-sm tracking-[0.1em] uppercase border-white/30 text-black hover:bg-white/10 transition-all duration-300">
                   Get Quote
                 </Button>
               </Link>
